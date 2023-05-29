@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ex1</string>
+    <string name="edit_text_content_description">Data Output</string>
+    <string name="edit_text_hint">Data Output</string>
+
+
+</resources>
